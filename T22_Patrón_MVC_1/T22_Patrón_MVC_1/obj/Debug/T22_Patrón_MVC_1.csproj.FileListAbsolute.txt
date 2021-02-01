@@ -1,0 +1,11 @@
+C:\Users\victo\source\repos\T22_Patrón_MVC_1\T22_Patrón_MVC_1\bin\Debug\T22_Patrón_MVC_1.exe.config
+C:\Users\victo\source\repos\T22_Patrón_MVC_1\T22_Patrón_MVC_1\bin\Debug\T22_Patrón_MVC_1.exe
+C:\Users\victo\source\repos\T22_Patrón_MVC_1\T22_Patrón_MVC_1\bin\Debug\T22_Patrón_MVC_1.pdb
+C:\Users\victo\source\repos\T22_Patrón_MVC_1\T22_Patrón_MVC_1\obj\Debug\T22_Patrón_MVC_1.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\T22_Patrón_MVC_1\T22_Patrón_MVC_1\obj\Debug\T22_Patrón_MVC_1.Cliente.resources
+C:\Users\victo\source\repos\T22_Patrón_MVC_1\T22_Patrón_MVC_1\obj\Debug\T22_Patrón_MVC_1.Properties.Resources.resources
+C:\Users\victo\source\repos\T22_Patrón_MVC_1\T22_Patrón_MVC_1\obj\Debug\T22_Patrón_MVC_1.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\T22_Patrón_MVC_1\T22_Patrón_MVC_1\obj\Debug\T22_Patrón_MVC_1.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\T22_Patrón_MVC_1\T22_Patrón_MVC_1\obj\Debug\T22_Patrón_MVC_1.exe
+C:\Users\victo\source\repos\T22_Patrón_MVC_1\T22_Patrón_MVC_1\obj\Debug\T22_Patrón_MVC_1.pdb
+C:\Users\victo\source\repos\T22_Patrón_MVC_1\T22_Patrón_MVC_1\obj\Debug\T22_Patrón_MVC_1.Registro.resources
