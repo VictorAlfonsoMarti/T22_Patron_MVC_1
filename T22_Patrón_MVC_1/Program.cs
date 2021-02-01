@@ -16,7 +16,13 @@ namespace T22_Patrón_MVC_1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            
+            Cliente cliente = new Cliente();
+            Controller controller = new Controller();
+
+            
+            controller.Cliente_Controller(cliente);
+            
         }
     }
 }
